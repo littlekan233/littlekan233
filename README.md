@@ -9,14 +9,15 @@
 
 ## 📊 概览
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=littlekan233&theme=dracula&hide=stars%2Cstreak%2Chours%2Cgrade%2Ctrend%2Cavg%2Cactive_day%2Cfollowers%2Cweek)
-![Top Languages](https://ghstats.dev/api/langs?username=littlekan233&theme=tokyonight)
+![Top Languages](https://ghstats.dev/api/langs?username=littlekan233&theme=dracula)
 ![Contribution Graph (Space Shooter)](game.gif)
 
 <!--放contribution graph-->
 
 ## 👦 关于我
 ```
-[littlekan233@profile ~] $ cat 01-info.yml
+[littlekan233@profile ~] $ cd 01-aboutme
+[littlekan233@profile 01-aboutme] $ cat info.yml
 ```
 ```yaml
 age: 15
@@ -25,9 +26,10 @@ birthday:
   month: 9
   day: 25
 mbti: "INFP"
-
-# 有一部分技能还不是很精通w...
-skills:
+```
+---
+```
+[littlekan233@profile 01-aboutme] $ ls skills/
 ```
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
@@ -36,15 +38,18 @@ skills:
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
-```yaml
-
-workflows:
+---
+```
+[littlekan233@profile 01-aboutme] $ ls workflows/
 ```
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
+---
+```
+[littlekan233@profile 01-aboutme] $ cat devices.yml
+```
 ```yaml
-
 devices:
   computer:
     # 是台老机器了qwq
@@ -73,6 +78,7 @@ devices:
 ```
 ---
 ```
+[littlekan233@profile 01-aboutme] $ cd ..
 [littlekan233@profile ~] $ cat 02-projects.md
 ```
 ## 💻 项目
