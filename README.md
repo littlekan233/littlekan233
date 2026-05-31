@@ -9,6 +9,8 @@
 
 ## 📊 概览
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=littlekan233&theme=dracula&hide=stars%2Cstreak%2Chours%2Cgrade%2Ctrend%2Cavg%2Cactive_day%2Cfollowers%2Cweek)
+![Top Languages](https://ghstats.dev/api/langs?username=littlekan233&theme=tokyonight)
+![Contribution Graph (Space Shooter)](game.gif)
 
 <!--放contribution graph-->
 
