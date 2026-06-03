@@ -12,9 +12,6 @@
 ![Top Languages](https://ghstats.dev/api/langs?username=littlekan233&theme=dracula)
 ![Contribution Graph (Space Shooter)](game.gif)
 
-<!--放contribution graph-->
-
-## 👦 关于我
 ```
 [littlekan233@profile ~] $ cd 01-aboutme
 [littlekan233@profile 01-aboutme] $ cat info.yml
